@@ -11,4 +11,4 @@
 - Investigating churn patterns: You’ll continue leveraging the Excel knowledge you gained from the prerequisite courses to investigate further why customers are leaving Databel.
 - Creating a cohesive story: In the last chapter, you’ll create a dashboard-style sheet and arrange your visuals to present your results to stakeholders in a cohesive story.
 
-![image](https://github.com/nits302/Excel.Analyzing-Customer-Churn/analyzing_customers_churned.png)
+

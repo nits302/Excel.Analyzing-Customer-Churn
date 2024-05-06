@@ -10,3 +10,5 @@
 - Exploratory analysis: In this first chapter, you’ll start by exploring your new dataset in Excel and gain an initial understanding of why customers are churning.
 - Investigating churn patterns: You’ll continue leveraging the Excel knowledge you gained from the prerequisite courses to investigate further why customers are leaving Databel.
 - Creating a cohesive story: In the last chapter, you’ll create a dashboard-style sheet and arrange your visuals to present your results to stakeholders in a cohesive story.
+
+  

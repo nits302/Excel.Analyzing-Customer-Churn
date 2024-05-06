@@ -5,7 +5,7 @@
 
 - Analyzing churn doesn’t just mean knowing the churn rate: it’s also about figuring out why customers are churning at the rate they are and how to reduce churn. You'll answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard.
 
-#Syllabus
+# Syllabus
 
 - Exploratory analysis: In this first chapter, you’ll start by exploring your new dataset in Excel and gain an initial understanding of why customers are churning.
 - Investigating churn patterns: You’ll continue leveraging the Excel knowledge you gained from the prerequisite courses to investigate further why customers are leaving Databel.
